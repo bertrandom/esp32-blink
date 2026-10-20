@@ -1,8 +1,18 @@
 # esp32-blink
 
-I have a bunch of these generic ESP32 boards that I purchased from [Amazon](https://www.amazon.com/dp/B08DQQ8CBP).
+I have a bunch of these generic ESP32 boards that I purchased from [Amazon](https://www.amazon.com/dp/B08DQQ8CBP) about 5 years ago.
 
 This repo is a starting PlatformIO project for building on them, it has the correct board selected and has a generic blink sketch.
+
+The headers are unsoldered. Have fun soldering 30 pins per board!
+
+I have since moved on to these alternatives which are smaller:
+
+M5Stack NanoC6 Dev Kit: https://shop.m5stack.com/products/m5stack-nanoc6-dev-kit ($5.95)
+Seeed Studio XIAO ESP32-S3: https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html ($7.50)
+Seeed Studio XIAO ESP32-C6: https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html ($5.20)
+
+but sometimes you still need a lot of pins. And I have a lot of these in a drawer.
 
 ## Pinout
 
