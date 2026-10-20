@@ -4,6 +4,8 @@ I have a bunch of these generic ESP32 boards that I purchased from [Amazon](http
 
 This repo is a starting PlatformIO project for building on them, it has the correct board selected and has a generic blink sketch.
 
+The back of the board has `ESP32 DEVKITV1` written on it.
+
 The headers are unsoldered. Have fun soldering 30 pins per board!
 
 I have since moved on to these alternatives which are smaller:
